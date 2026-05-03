@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Taffy4000 
 - 👀 I’m interested in embedded development.
-- 🌱 I’m currently learning python.
-- 📫 You reach me by email：Yingjun.Xiang21@gmail.com
+- 🌱 I’m currently learning Reinforce learning.
+- 📫 You can reach me by email：Yingjun.Xiang21@gmail.com
 
 你好，这里是相映君
 可通过 Yingjun.Xiang21@gmail.com 邮件联系我。
