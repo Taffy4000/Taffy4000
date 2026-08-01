@@ -32,13 +32,6 @@
 | **电路与系统仿真** | `LTspice` `Multisim` `Digital` |
 
 
-## 📊 GitHub 统计
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord" />
-</p>
-
 ---
 
 <div align="center">
