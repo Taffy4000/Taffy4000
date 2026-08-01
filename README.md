@@ -31,22 +31,6 @@
 | **机械建模与设计** | `SolidWorks` `Creo` `Blender` `3D Printing` |
 | **电路与系统仿真** | `LTspice` `Multisim` `Digital` |
 
----
-
-## 🚀 核心项目 (Featured Projects)
-
-### 🤖 [Custom Core-XY Motion Stage]
-*毕业设计 (Final Year Project) | Core-XY 双轴高精度定位平台*
-- **硬件集成**：基于 SolidWorks 设计 3D 打印结构，集成铝型材框架、直线导轨、同步带与 NEMA17 + TMC2209 步进驱动。
-- **算法与嵌入式**：基于 **Arduino GIGA (C++)** 实现归零、直线/圆弧插补与加速度控制，**空载速度达 260 mm/s，分辨率 0.025 mm**。
-- **交互系统**：基于 **LVGL** 开发嵌入式触控 GUI，实现运动参数与当前位置的可视化实时控制。
-
-### 📡 [AI Signal Map Generation & Training Pipeline]
-*北京佰才邦 (Baicells) AI 训练实习*
-- 使用 **iBwave** 生成了 1000+ 张特定区域基站信号强度图，构建供 AI 训练的数据集。
-- 根据 AI 模型输出结果制定数据修整策略，完善并整合了 AI 训练守则。
-
----
 
 ## 📊 GitHub 统计
 
